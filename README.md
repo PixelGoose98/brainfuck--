@@ -5,10 +5,10 @@ ALSO ITS BACKWARD COMPATIBLE WITH BRAINFUCK, JUST WRITE YOUR BF CODE IN THE BF--
   **WARNING, THIS HAS NOT BEEN TESTED, IF ANY BUGS ARE FOUND PLEASE CONTACT pixelgoose98@gmail.com, AND if you can, check the source code of the language and try to fix it urself, dont worry, its fairly simple... i think**
 
 HOW TO USE:
-  GO TO FOLDER THAT IS THE LOCATION OF THE COMPILED C++ FILE
-  THEN PUT YOUR BRAINFUCK-- FILE (.bfmm) IN THE SAME FOLDER
-  OPEN COMMAND PROMPT, TYPE THE COMPILED .EXE FILE NAME AND THEN THE BRAINFUCK-- FILENAME WITH THE EXTENSION, SO eg. C:\Users\Admin>bfmmcomp main.bfmm
-  output will appear in command prompt
+  **1** GO TO FOLDER THAT IS THE LOCATION OF THE COMPILED C++ FILE
+  **2** THEN PUT YOUR BRAINFUCK-- FILE (.bfmm) IN THE SAME FOLDER
+  **3** OPEN COMMAND PROMPT, TYPE THE COMPILED .EXE FILE NAME AND THEN THE BRAINFUCK-- FILENAME WITH THE EXTENSION, SO eg. C:\Users\Admin>bfmmcomp main.bfmm
+  **4** output will appear in command prompt
 
 WHAT WAS ADDED AND DESCRIPTION:
   >all commands in BF--<:
