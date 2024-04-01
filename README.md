@@ -1,4 +1,4 @@
-# BF---brainfuck---0.1
+# BF-- brainfuck-- 0.1
 a alpha version of a better version of the interpreter brainfuck programing language with more commands all in one file! its BF-- 0.1! compiler ver coming soon...
 ALSO ITS BACKWARD COMPATIBLE WITH BRAINFUCK, JUST WRITE YOUR BF CODE IN THE BF-- FILE EXTENSION (.bff)
 
