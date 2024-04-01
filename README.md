@@ -2,7 +2,7 @@
 a alpha version of a better version of the interpreter based brainfuck programing language with more commands and capabilities (alpha ver 0.1) all in one file! its BF-- 0.1! compiler ver coming soon...
 ALSO ITS BACKWARD COMPATIBLE WITH BRAINFUCK, JUST WRITE YOUR BF CODE IN THE BF-- FILE EXTENSION (.bfmm)
 
-  **WARNING, THIS HAS NOT BEEN TESTED, IF ANY BUGS ARE FOUND PLEASE CONTACT pixelgoose98@gmail.com, AND if you can, check the source code of the language and try to fix it urself, dont worry, its fairly simple... i think**
+  **WARNING, THIS HAS NOT BEEN TESTED VERY WELL, IF ANY BUGS ARE FOUND PLEASE CONTACT pixelgoose98@gmail.com, AND if you can, check the source code of the language and try to fix it urself, dont worry, its fairly simple... i think**
 
 HOW TO USE:
   **1** GO TO FOLDER THAT IS THE LOCATION OF THE COMPILED C++ FILE
@@ -10,7 +10,7 @@ HOW TO USE:
   **3** OPEN COMMAND PROMPT, TYPE THE COMPILED .EXE FILE NAME AND THEN THE BRAINFUCK-- FILENAME WITH THE EXTENSION, SO eg. C:\Users\Admin>bfmmcomp main.bfmm
   **4** output will appear in command prompt
 
-WHAT WAS ADDED AND DESCRIPTION:
+WHAT WAS ADDED:
   >all commands in BF--<:
       '>': Increment the pointer to point to the next memory cell.
       '<': Decrement the pointer to point to the previous memory cell.
