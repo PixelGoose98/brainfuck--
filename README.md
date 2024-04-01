@@ -1,15 +1,15 @@
-# BF++-brainfuck++-0.1
-a alpha version of a better version of the interpreter brainfuck programing language with more commands all in one file! its BF++ 0.1! compiler ver coming soon...
-ALSO ITS BACKWARD COMPATIBLE WITH BRAINFUCK, JUST WRITE YOUR BF CODE IN THE BF++ FILE EXTENSION (.bff)
+# BF---brainfuck---0.1
+a alpha version of a better version of the interpreter brainfuck programing language with more commands all in one file! its BF-- 0.1! compiler ver coming soon...
+ALSO ITS BACKWARD COMPATIBLE WITH BRAINFUCK, JUST WRITE YOUR BF CODE IN THE BF-- FILE EXTENSION (.bff)
 
   **WARNING, THIS HAS NOT BEEN TESTED, IF ANY BUGS ARE FOUND PLEASE CONTACT pixelgoose98@gmail.com, AND if you can, check the source code of the language and try to fix it urself, dont worry, its fairly simple... i think**
 
 HOW TO USE:
   GO TO FOLDER THAT IS THE LOCATION OF THE COMPILED C++ FILE
-  THEN PUT YOUR BRAINFUCK OR BRAINFUCK++ FILE (both have a .bf extenstion, 
+  THEN PUT YOUR BRAINFUCK OR BRAINFUCK-- FILE (both have a .bf extenstion, 
 
 WHAT WAS ADDED AND DESCRIPTION:
-  >all commands in BF++<:
+  >all commands in BF--<:
       '>': Increment the pointer to point to the next memory cell.
       '<': Decrement the pointer to point to the previous memory cell.
       '+': Increment the value in the current memory cell by 1.
