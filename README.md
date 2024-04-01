@@ -11,7 +11,7 @@ HOW TO USE:
   **4** output will appear in command prompt
 
 WHAT WAS ADDED:
-  >all commands in BF--<:
+  all commands in BF--:
       '>': Increment the pointer to point to the next memory cell.
       '<': Decrement the pointer to point to the previous memory cell.
       '+': Increment the value in the current memory cell by 1.
